@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loteria-cielo/static/css/main.3952ef38.css",
+    "main.js": "/loteria-cielo/static/js/main.b7c8d866.js",
+    "static/js/787.2ae12534.chunk.js": "/loteria-cielo/static/js/787.2ae12534.chunk.js",
+    "index.html": "/loteria-cielo/index.html",
+    "main.3952ef38.css.map": "/loteria-cielo/static/css/main.3952ef38.css.map",
+    "main.b7c8d866.js.map": "/loteria-cielo/static/js/main.b7c8d866.js.map",
+    "787.2ae12534.chunk.js.map": "/loteria-cielo/static/js/787.2ae12534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3952ef38.css",
+    "static/js/main.b7c8d866.js"
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loteria-cielo/static/css/main.3952ef38.css",
-    "main.js": "/loteria-cielo/static/js/main.885817d6.js",
+    "main.css": "/loteria-cielo/static/css/main.a2527ce9.css",
+    "main.js": "/loteria-cielo/static/js/main.c29aa4e4.js",
     "static/js/787.2ae12534.chunk.js": "/loteria-cielo/static/js/787.2ae12534.chunk.js",
     "index.html": "/loteria-cielo/index.html",
-    "main.3952ef38.css.map": "/loteria-cielo/static/css/main.3952ef38.css.map",
-    "main.885817d6.js.map": "/loteria-cielo/static/js/main.885817d6.js.map",
+    "main.a2527ce9.css.map": "/loteria-cielo/static/css/main.a2527ce9.css.map",
+    "main.c29aa4e4.js.map": "/loteria-cielo/static/js/main.c29aa4e4.js.map",
     "787.2ae12534.chunk.js.map": "/loteria-cielo/static/js/787.2ae12534.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3952ef38.css",
-    "static/js/main.885817d6.js"
+    "static/css/main.a2527ce9.css",
+    "static/js/main.c29aa4e4.js"
   ]
 }
